@@ -1,1 +1,5 @@
+domain: makedump.ru
+url: https://makedump.ru
+baseurl: /
+
 theme: jekyll-theme-cayman
